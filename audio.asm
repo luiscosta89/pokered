@@ -1,5 +1,7 @@
 INCLUDE "constants.asm"
 
+; COMMENT LINE 1
+; COMMENT LINE 2
 
 SECTION "Sound Effect Headers 1", ROMX
 INCLUDE "audio/headers/sfxheaders1.asm"
